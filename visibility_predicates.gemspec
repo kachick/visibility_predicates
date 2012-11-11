@@ -5,7 +5,7 @@ Gem::Specification.new do |gem|
   gem.email         = ['kachick1+ruby@gmail.com']
   gem.summary       = 'Provide some predicate methods for to check method visibility.'
   gem.description   = gem.summary.dup
-  gem.homepage      = 'http://github.com/kachick/visibility_predicates'
+  gem.homepage      = 'http://kachick.github.com/visibility_predicates/'
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
