@@ -46,7 +46,7 @@ Install
 -------
 
 ```bash
-$ gem install visibility_predicates
+gem install visibility_predicates
 ```
 
 Build Status
