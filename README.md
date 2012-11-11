@@ -57,6 +57,7 @@ Build Status
 Link
 ----
 
+* [Home](http://kachick.github.com/visibility_predicates/)
 * [code](https://github.com/kachick/visibility_predicates)
 * [API](http://kachick.github.com/visibility_predicates/yard/frames.html)
 * [issues](https://github.com/kachick/visibility_predicates/issues)
