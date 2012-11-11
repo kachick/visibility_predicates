@@ -1,4 +1,5 @@
-# visibility predicates - 
+# visibility predicates 
+#  - Provide some predicate methods for to check method visibility.
 # Copyright (c) 2012 Kenichi Kamiya
 
 # @note
