@@ -10,5 +10,12 @@ rvm:
   - jruby-head
   - jruby-18mode
 
+matrix:
+  allow_failures:
+    - rvm: rbx-19mode
+    - rvm: rbx-18mode
+    - rvm: jruby-head
+    - rvm: jruby-18mode
+
 before_install:
   - gem install bundler
