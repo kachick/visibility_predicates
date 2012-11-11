@@ -12,7 +12,6 @@ Features
 * Kernel#public_method?
 * Kernel#protected_method?
 * Kernel#private_method?
-
 * Module#public_instance_method?
 * Module#protected_instance_method?
 * Module#private_instance_method?
