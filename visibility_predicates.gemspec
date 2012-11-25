@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name          = 'visibility_predicates'
-  gem.version       = '0.0.1'
+  gem.version       = '0.2.0'
   gem.authors       = ['Kenichi Kamiya']
   gem.email         = ['kachick1+ruby@gmail.com']
   gem.summary       = 'Provide some predicate methods for to check method visibility.'
@@ -12,7 +12,7 @@ Gem::Specification.new do |gem|
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.require_paths = ['lib']
 
-  gem.required_ruby_version = '>= 1.8.7'
+  gem.required_ruby_version = '>= 1.9.2'
 
   gem.add_development_dependency 'yard', '~> 0.8'
   gem.add_development_dependency 'rake'

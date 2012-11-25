@@ -40,7 +40,7 @@ Bar.new.private_method? :modified_foobar   #=> false
 Requirements
 -------------
 
-* Ruby - [1.8.7 or later](http://travis-ci.org/#!/kachick/visibility_predicates)
+* Ruby - [1.9.2 or later](http://travis-ci.org/#!/kachick/visibility_predicates)
 
 Install
 -------

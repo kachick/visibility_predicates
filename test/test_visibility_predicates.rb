@@ -2,7 +2,7 @@ require 'test/unit'
 
 $VERBOSE = true
 
-require "#{File.dirname(File.dirname(__FILE__))}/lib/visibility_predicates"
+require_relative '../lib/visibility_predicates'
 
 
 class Foo
