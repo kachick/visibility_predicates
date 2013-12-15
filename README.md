@@ -1,10 +1,10 @@
 visibility_predicates
 ========================
 
-Description
------------
+[![Build Status](https://secure.travis-ci.org/kachick/visibility_predicates.png)](http://travis-ci.org/kachick/visibility_predicates)
+[![Gem Version](https://badge.fury.io/rb/visibility_predicates.png)](http://badge.fury.io/rb/visibility_predicates)
 
-Provide some predicate methods for to check method visibility.
+Some predicate methods for checking method visibility.
 
 Features
 --------
@@ -40,7 +40,7 @@ Bar.new.private_method? :modified_foobar   #=> false
 Requirements
 -------------
 
-* Ruby - [1.8.7 or later](http://travis-ci.org/#!/kachick/visibility_predicates)
+* [Ruby 1.8.7 or later](http://travis-ci.org/#!/kachick/visibility_predicates)
 
 Install
 -------
@@ -48,11 +48,6 @@ Install
 ```bash
 gem install visibility_predicates
 ```
-
-Build Status
--------------
-
-[![Build Status](https://secure.travis-ci.org/kachick/visibility_predicates.png)](http://travis-ci.org/kachick/visibility_predicates)
 
 Link
 ----
