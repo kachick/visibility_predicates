@@ -1,3 +1,4 @@
+# coding: us-ascii
 # visibility predicates 
 #  - Some predicate methods for checking method visibility.
 # Copyright (c) 2012 Kenichi Kamiya
