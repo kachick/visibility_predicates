@@ -7,7 +7,7 @@ Gem::Specification.new do |gem|
   gem.description   = 'Some predicate methods for checking method visibility.'
   gem.summary       = gem.description.dup
   gem.license       = 'MIT'
-  gem.version       = '0.0.2'
+  gem.version       = '0.1.0'
 
   gem.add_development_dependency 'test-unit', '>= 3.3.3', '< 4'
   gem.add_development_dependency 'yard', '>= 0.9.20', '< 2'
