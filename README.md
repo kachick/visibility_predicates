@@ -1,8 +1,9 @@
 visibility_predicates
 ========================
 
-[![Build Status](https://secure.travis-ci.org/kachick/visibility_predicates.png)](http://travis-ci.org/kachick/visibility_predicates)
-[![Gem Version](https://badge.fury.io/rb/visibility_predicates.png)](http://badge.fury.io/rb/visibility_predicates)
+* ***This repository is archived***
+* ***No longer maintained***
+* ***All versions have been yanked from https://rubygems.org for releasing valuable namespace for others***
 
 Some predicate methods for checking method visibility.
 
@@ -42,27 +43,9 @@ Requirements
 
 * [Ruby 2.5 or later](http://travis-ci.org/#!/kachick/visibility_predicates)
 
-Install
--------
-
-```bash
-gem install visibility_predicates
-```
-
-Link
-----
-
-* [Home](http://kachick.github.com/visibility_predicates/)
-* [code](https://github.com/kachick/visibility_predicates)
-* [API](http://kachick.github.com/visibility_predicates/yard/frames.html)
-* [issues](https://github.com/kachick/visibility_predicates/issues)
-* [CI](http://travis-ci.org/#!/kachick/visibility_predicates)
-* [gem](https://rubygems.org/gems/visibility_predicates)
-
 License
 --------
 
 The MIT X11 License  
 Copyright (c) 2012 Kenichi Kamiya  
 See MIT-LICENSE for further details.
-
